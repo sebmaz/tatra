@@ -6,6 +6,27 @@
  * @package WordPress
  */
 
+
+
+if ($_SERVER['REMOTE_ADDR'] != '77.255.152.52') {
+    echo '<div style="
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+">
+<img src="http://tatra.pixelbit.pl/wp-content/uploads/2023/12/logo-dark.png" class="skip-lazy logoimg bg--light" alt="">
+
+    Strona w budowie
+</div>';
+
+    exit;
+}
+
+
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
