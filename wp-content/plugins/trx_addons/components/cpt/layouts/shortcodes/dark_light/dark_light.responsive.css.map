@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,0BAAoB;EAChB,yBAAyB;;AAI7B,yBAAoB;EAChB,yBAAyB",
+"sources": ["dark_light.responsive.scss"],
+"names": [],
+"file": "dark_light.responsive.css"
+}

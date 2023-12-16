@@ -1,0 +1,12 @@
+@import "../../../../../css/_mixins.scss";
+@import "../../../../../css/_trx_addons.vars.scss";
+
+//@mixin layouts_dark_light--xl() {
+@media #{$media_xl} {
+    /* Layouts: Dark/Light */
+}
+
+//@mixin layouts_dark_light--xs() {
+@media #{$media_xs} {
+    /* Layouts: Dark/Light */
+}
