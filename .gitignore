@@ -40,7 +40,6 @@ wp-config.php
 /wp-content/cache/
 
 # skroutz
-/wp-content/plugins/webexpert-skroutz-xml-feed/skroutz_1.xml
 # All plugins
 #
 # Note: If you wish to whitelist plugins,
