@@ -1,4 +1,5 @@
 /.vscode
+/.idea
 /.vscode
 .well-known
 # Wordpress - ignore core, configuration, examples, uploads and logs.
