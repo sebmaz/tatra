@@ -13,3 +13,17 @@
 
 /* =Theme customization starts here
 ------------------------------------------------------------ */
+
+@media (max-width: 1279px){
+.menu_mobile .custom-logo-link img, .menu_mobile .sc_layouts_logo img {
+    max-height: 50px!important;
+}
+}
+
+@media (max-width: 479px){
+.menu_mobile .sc_layouts_logo img {
+    max-height: 45px!important;
+    padding-top: 15px;
+}
+}
+
